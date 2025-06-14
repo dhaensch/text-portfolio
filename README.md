@@ -35,3 +35,10 @@
 
 
 ### Projects
+**Python**
+
+**R**
+
+**SQL**
+
+**Tableau**
