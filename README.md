@@ -2,6 +2,7 @@
 - M.S., Business Analytics | Champlain College (_Anticipated Graduation: August 2026_)
 - B.A., Physics With Mathematics Minor | State University of New York College at Geneseo (_Graduation: May 2013_)
 
+
 ### Work Experience
 **Auto Service Representative, The Hartford (_October 2021 - Present_)**
 - Work independently to triage and analyze vehicle damages in a fast paced high volume atmosphere.
@@ -31,10 +32,6 @@
 - Evaluate claims and classify accordingly
 - Provide effective communication between GEICO and diverse relevant parties
 - Manage claims of clear liability to completion
-
-
-
-
 
 
 ### Projects
